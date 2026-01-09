@@ -1,4 +1,4 @@
-module github.com/testcontainers/testcontainers-go
+module github.com/seizethedave/testcontainers-go
 
 go 1.24.0
 
